@@ -1,0 +1,42 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.name-wrapper {
+    text-align: center;
+    margin-top: 60px;
+    padding: 0 15px;
+}
+
+.info-wrapper {
+    margin: 20px auto;
+    max-width: 500px;
+    padding: 20px 0;
+}
+
+.collection {
+    border: 1px solid #2fcabb;
+    padding: 40px 0;
+}
+.btn {
+    margin: 5px;
+}
+
+.user-info {
+    font-size: 14px;
+    margin: 0 40px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 0;
+}
+
+p {
+    border-bottom: 1px solid #26a69a;
+    padding-bottom: 5px;
+}
+
+.d-none {
+    display: none;
+}
